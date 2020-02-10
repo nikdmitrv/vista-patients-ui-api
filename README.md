@@ -8,6 +8,10 @@
 5.При клике на пациенте в таблице в левую панель должна подгружаться дополнительная информация о выбранном пациенте(см.скриншот)
 
 ## Скриншот 1
-![First screenshot](https://ibb.co/QXrMRwD)
+![First screenshot](https://i.ibb.co/YbphMs0/quitting.jpg)
 ## Скриншот 2
-![Second screenshot](https://ibb.co/4tttF1M)
+![Second screenshot](https://i.ibb.co/0222nsZ/present.jpg)
+
+## О выполнении
+Задание выполнено с использованием React + Redux технологий, и простым серверным API на Express для размещения json файлов.
+Ознакомиться с не компилированным кодом Реакта можно здесь: https://github.com/nikdmitrv/vista-patients-ui
